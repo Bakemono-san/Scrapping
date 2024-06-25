@@ -1,0 +1,3 @@
+J'ai mis const options = new firefox.Options().setAcceptInsecureCerts(true);
+parce que le tls du site a expiré
+  
